@@ -1,0 +1,10 @@
+Type ID
+Type Name
+
+Location ID
+Location Name
+
+Object ID
+Object Use
+Object Notes
+
